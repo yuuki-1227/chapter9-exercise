@@ -87,4 +87,8 @@ img {
       margin-bottom: 0;
     }
   }
+
+  .box:last-child {
+    margin-right: auto;
+  }
 }
